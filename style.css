@@ -1,0 +1,40 @@
+.text{
+    font-weight: bold;
+}
+.btn-design{
+    height:56px;
+    width:150px;
+    background-color:#A4BC46;
+    border-radius: 10px;
+    font-size:13px;
+    
+}
+h1{
+    font-size: 45px;
+    
+}
+body{
+    font-family: "Gill Sans", sans-serif;
+}
+.bg-color{
+    background-color: #FFFBF0;
+}
+.penguin-footer{
+    border:none;
+    background-color: white;
+}
+.img-center img{
+ margin:0 auto;
+}
+.design1{
+    height:100px;
+    width: 50%;
+    background-color: white;
+    border-radius: 10px;
+}
+.ht{
+    height: 200px;
+}
+.bb{
+    border:2px solid red;
+}
